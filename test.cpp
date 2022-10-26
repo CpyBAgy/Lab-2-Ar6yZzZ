@@ -6,4 +6,5 @@ int main()
 {
     cout << "Hello, World!";
     cout << "vanya loh";
+    cout << "danya toje";
 }
