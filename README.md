@@ -1,2 +1,2 @@
-# Lab-2-Ar6yZzZ
-тестовый репозиторий
+# DevTools
+Git commands may be was here
